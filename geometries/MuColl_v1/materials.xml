@@ -38,6 +38,11 @@
         <composite n="1" ref="Fe" />
     </material>
 
+ <material formula="Ar" name="Argon" state="gas" >
+        <D type="density" unit="g/cm3" value="0.001784" />
+        <composite n="1" ref="Ar" />
+    </material>
+
     <material formula="Si" name="Silicon" state="solid" >
         <D type="density" unit="g/cm3" value="2.329" />
         <composite n="1" ref="Si" />
