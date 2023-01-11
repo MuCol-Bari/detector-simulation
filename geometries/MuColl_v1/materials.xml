@@ -39,7 +39,7 @@
     </material>
 
  <material formula="Ar" name="Argon" state="gas" >
-        <D type="density" unit="g/cm3" value="0.001784" />
+        <D type="density" unit="g/cm3" value="0.001662" />
         <composite n="1" ref="Ar" />
     </material>
 
